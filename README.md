@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashutosh Gupta 
 - 👀 I’m interested in web-dev and cybersecurity 
 - 🌱 I’m currently learning ReactJs
-- 📫 [Reach Out here](https://www.linkedin.com/in/ashutosh-gupta-01a431197/)
+- 📫 [Reach Out here](https://www.linkedin.com/in/ashutoshngupta/)
 
 
 <!---
